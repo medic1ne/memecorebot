@@ -1,6 +1,3 @@
-# Writing the README content to a file so the user can download it.
-
-readme_content = """
 # MemesWar Bot
 
 The **MemesWar Bot** automates daily interactions with the Memes War platform, a game where players earn points, tokens, and rewards through quests, attendance, and guild contributions. This bot simplifies tasks such as claiming treasury rewards, checking in, completing quests, and managing guild operations.
